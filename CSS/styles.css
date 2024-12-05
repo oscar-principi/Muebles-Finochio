@@ -80,7 +80,14 @@ body {
 
 
   /*---------------------------------------------------Contactos*/
+  /* Estilo para los iconos de redes sociales */
+  #redes-sociales .fab {
+    transition: transform 0.3s ease, color 0.3s ease;
+  }
 
+  #redes-sociales .fab:hover {
+    transform: scale(1.2); /* Aumenta el tamaño del icono */
+  }
 
 
   /*---------------------------------------------------Pie de pagina*/
