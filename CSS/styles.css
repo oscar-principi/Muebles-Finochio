@@ -40,6 +40,7 @@ body {
 #home{
   margin: 10%;
   padding: 10%;
+  min-width: 340px;
 }
 .zoom-in {
   transform: scale(0.8); 
