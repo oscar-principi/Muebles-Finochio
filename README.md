@@ -1,4 +1,5 @@
-Muebles Finochio 🪵🪑
+Muebles Finochio 🪵🪑 Web
+
 Sitio web profesional diseñado para Muebles Finochio, un espacio dedicado a la exhibición de muebles de fabricación propia y servicios de restauración artesanal. La página sirve como catálogo digital y puente directo de comunicación con los clientes.
 
 ✨ Características
